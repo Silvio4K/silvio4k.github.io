@@ -1,0 +1,29 @@
+.Menu {
+ height: 60%;
+ width: 25%;
+ margin-top: -25%;
+ position: relative;
+ background: url(svg/menu.svg);
+ background-size: cover;
+
+ padding-top: 140px;
+ padding-left: 75px;
+}
+
+.senai {
+ height: 49%;
+ width: 49%;
+ margin-left: 35%;
+ 
+}
+
+.fotodesala {
+ margin-top: -140%;
+ margin-left: 150%;
+ height: 74%;
+ width: 228%;
+
+ background: url(img/Group\ 4.png);
+ background-size: cover;
+}
+

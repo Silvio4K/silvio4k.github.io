@@ -1,0 +1,15 @@
+.fotodefundo {
+ width: 100%;
+ height: 160%;
+ background-image: url(img/sala\ de\ aula.jpg);
+ background-size: cover;
+}
+
+.fotobarradefundo {
+ width: 100%;
+ height: 205px;
+ display: block;
+
+ background: url(img/sala\ de\ aula.jpg);
+ background-size: cover;
+}
